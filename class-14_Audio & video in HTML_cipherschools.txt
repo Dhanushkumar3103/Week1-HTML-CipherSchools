@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            audio and video
+        </title>
+    </head>
+    <body>
+        <h1>Class-14_Audio & Video in HTML_cipherschools</h1>
+       <audio controls src=""></audio>
+       <audio controls >
+        <source src="">
+       </audio>
+
+       <video controls src=""></video>
+       <video controls width="100%" muted loop autoplay>
+        <source src="">
+        <track src=""
+        kind="captions"
+        label="english"
+        srclang="en"
+        default>
+       </video>
+    </body>
+</html>
+
+
+

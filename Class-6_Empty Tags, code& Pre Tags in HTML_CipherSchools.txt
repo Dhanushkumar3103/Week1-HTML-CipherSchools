@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Empty Tags in HTML
+        </title>
+    </head>
+    <body>
+        <h1>Class-6_Empty Tags, Code& Pre Tags in HTML_cipherschools</h1>
+
+        <!--line break-->
+        I never saw a purple cow,
+        <br>
+I never hope to see one,
+<br>
+But I can tell you, anyhow,<br>
+I’d rather see than be one!<br>
+  <!--Line with break-->
+   <hr>
+   The forest is the town of trees<br>
+Where they live quite at their ease,<br>
+With their neighbors at their side<br>
+Just as we in cities wide.<br>
+<br>
+<!--spacing format-->
+   <pre>
+    'The Starlight Night' was
+         one of two poems which hopkins
+         sent to his mother
+
+    the other poem being 'God's Grandeur'
+             What a present!
+   </pre>
+   
+   <!--using code in para-->
+   <p>'The Starlight Night' was
+    one of two poems which hopkins
+    sent to his mother <code>{background-color: green}</code></p>
+    
+    <!--forcing not to break a line-->
+    <p>I am Dhanush, 19years old, aspiring CSE,&nbsp;LPU,&nbsp;PUNJAB.</p>
+    </body>
+</html>
+

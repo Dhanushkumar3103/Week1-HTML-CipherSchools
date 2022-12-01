@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Figures & Captions
+        </title>
+    </head>
+    <body>
+        <h1>Class-15_Figures & Captions in HTML_cipherschools</h1>
+       <figure>
+        <img src="https://tse2.mm.bing.net/th?id=OIP.M_TudGqMnpSvU7_tbzDnXAHaHa&pid=Api&P=0" alt="plant" width="100%">
+        <figcaption>This is a Plant</figcaption>
+       </figure>
+
+       <marquee behaviour="alternate" direction="right" >Its video no. 15</marquee>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Date & Time
+        </title>
+    </head>
+    <body>
+        <h1>Class-9_Date & Time in HTML_cipherschools</h1>
+       <time datetime="2022-11-28T15:37-06:00">28th November 2022</time>
+    </body>
+</html>
+

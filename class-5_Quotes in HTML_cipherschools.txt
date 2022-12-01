@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Quotes
+        </title>
+    </head>
+    <body>
+        <h1>Class-5_Quotes in HTML_cipherschools</h1>
+        <blockquote>
+            <q>FAILURES ARE THE STEEPING STONES TO THE SCHOOL </q>
+
+           <cite><strong>DHANUSH</strong></cite>
+         
+
+        </blockquote>
+
+    </body>
+</html>

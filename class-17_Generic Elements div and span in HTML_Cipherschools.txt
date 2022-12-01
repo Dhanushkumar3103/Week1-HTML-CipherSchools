@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Generic Elements 
+        </title>
+    </head>
+    <body>
+        <h1>Class-17_Generic Elements div and span in HTML_cipherschools</h1>
+        <div>
+            <h1>Its a Heading</h1>
+            <p>First <span>Paragraph</span></p>
+            <p>Second Paragraph</p>
+            <p>Third Paragraph</p>
+        </div>
+      
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+         images and responsiveness in html
+        </title>
+    </head>
+    <body>
+        <h1>Class-12_Flexible Images and Responsiveness_cipherschools</h1>
+      <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="house" 
+        srcset="/This pc/Downloads/abc/small.jpg 500w,
+                /This pc/Downloads /abc/medium.jpg 900w,
+                /This pc/Downloads/abc/large.jpg 1200w"
+      
+       sizes="(max-width:480px) 240px,
+              (max-width: 960px) 480px,
+              (max-width: 1440px) 960px"
+       >
+      <picture>
+       <source media="(max-width: 600px)" srcset="https://www.w3schools.com/html/pic_trulli.jpg">
+       <source media="(max-width: 900px)" srcset="https://www.w3schools.com/html/img_car.jpg">
+        <img src="https://www.w3schools.com/html/img_food.jpg" alt="">
+      </picture>
+    </body>
+</html>

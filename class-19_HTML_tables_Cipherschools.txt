@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Tables
+        </title>
+    </head>
+    <body>
+        <h1>Class-19_HTML Tables_cipherschools</h1>
+      <table>
+        <!--table's title-->
+        <thead>Learning Tables</thead>
+        <!--table body-->
+       <tbody>
+        <!--table row-->
+        <tr>
+        <!--table's heading column-->
+        <th>Name</th>
+        <th>Section</th>
+        <th>Roll no.</th>
+        <th>Email</th>
+        </tr>
+        <tr>
+        <!--table's data column-->
+        <td>Dhanush</td>
+        <td>koc30</td>
+        <td>64</td>
+        <td>p.dhanush353@gmail.com</td>
+        </tr>
+
+        <tr>
+        <td>ravi</td>
+        <td>koc30</td>
+        <td>38</td>
+        <td>arjunrav@143.com</td>
+        </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
+

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Links & Navigation
+        </title>
+    </head>
+    <body>
+        <h1>Class-11_Links & Navigation in HTML_cipherschools</h1>
+        <!--relative URL-->
+        <a href="w1-c10.html">click me</a>
+
+        <!--absolute URL-->
+        <a href="https://www.instagram.com/">instagram</a>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE-edge">
+
+
+        <title>Lists</title>
+    </head>
+    <body>
+        <h1>Unordered List</h1>
+        <h1>ordered List</h1>
+        <h1>Defination List</h1>
+
+       <ul>
+        <li>Dhanush</li>
+        <li>ravi</li>
+        <li>sree kanth</li>
+       </ul>
+
+       <ol>
+        <li>Dhanush</li>
+        <li>ravi</li>
+        <li>sree kanth</li>
+       </ol>
+
+       <dl>
+        <dt>cipherschools</dt>
+        <dd>The best Online Education Platform, We here in CipherSchools connect unskilled students with industry experts to help them succeed in their career aspirations.</dd>
+       </dl>
+
+       <dl>
+        <dt>cipherschools</dt>
+        <dd>The best Online Education Platform, We here in CipherSchools connect unskilled students with industry experts to help them succeed in their career aspirations.</dd>
+       </dl>
+
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            HTML Entities
+        </title>
+    </head>
+    <body>
+        <h1>Class-10_Weird Characters in HTML_cipherschools</h1>
+        <h2>HTML Entities</h2>
+        <ul>
+            <li>&nbsp;</li>
+            <li>&copy;</li>
+            <li>&star;</li>
+            <li>&trade;</li>
+            <li>&commat;</li>
+            <li>&reg;</li>
+            <li>&amp;</li>
+            <li>&lt;</li>
+            <li>&gt;</li>
+        </ul>
+
+    </body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            image mapping
+        </title>
+    </head>
+    <body>
+        <h1>Class-13_Image Mapping in HTML_cipherschools</h1>
+        <img src="https://tse1.mm.bing.net/th?id=OIP.HIkHzQ6caJhcd6uN4x56VgHaJ4&pid=Api&P=0" alt="workspace" usemap="workspace">
+
+        <map name="workspace">
+            <area shape="rect" coords="34,44,220,350" href="computer.html" alt="computer">
+            <area shape="rect" coords="" href="frame.html" alt="frame">
+            <area shape="circle" coords="" href="speaker.html" alt="speaker">
+        </map>
+
+    </body>
+</html>

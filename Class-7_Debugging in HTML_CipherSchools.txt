@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Debugging in HTML
+        </title>
+    </head>
+    <body>
+        <h1>Class-7_Debugging in HTML_cipherschools</h1>
+        <h2>paragraph</h2>
+        <p>The true intent of a paragraph is to express coherent points. It could be one sentence or through many sentences. The idea or what we call the “main idea” of the paragraph always flows in one direction. As soon as this idea changes, we change the paragraph too.</p>
+        <small>All rights reserved &copy; 2022</small>
+
+    </body>
+</html>
